@@ -5,9 +5,9 @@
 }
 
 header{
-    padding: 16px ;
+    padding: 16px;
     background-color: #961430;
-    color: #ecf0f1;
+    color: #80bfcf;
 }
 
 header nav li {
@@ -16,3 +16,7 @@ header nav li {
     font-size: 18px;
 }
 
+header nav li a {
+    color: #ecf0f1;
+    text-decoration: none;
+}
