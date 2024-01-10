@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+header, section div h1, .tratamento-item h2{
+    font-family: 'Dela Gothic One', sans-serif;
+    font-weight: normal;
+}
+
 header {
     padding: 16px;
     background-color: #1b7209;
